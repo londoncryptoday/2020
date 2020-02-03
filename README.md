@@ -21,7 +21,7 @@ Friday, April 3rd, 2020, starting at 10:00am.
 
 ## Sounds great, I'm in!
 
-Awesome! Registration is coming soon.
+Awesome! We'll soon provide a link for registration. Please stay tuned.
 
 ## Speakers
 
@@ -33,24 +33,24 @@ Awesome! Registration is coming soon.
 
 ## Agenda
 
-09:15 - 09:50:  **Arrival and breakfast** 
-09:50 - 10:00:  **Welcome**
+09:15 - 09:50:  **Arrival and breakfast**  
+09:50 - 10:00:  **Welcome**  
 
-10:00 - 11:00:  Speaker 1
-11:00 - 12:00:  Speaker 2
- 
-12:00 - 13:30:  **Lunch**
- 
-13:30 - 14:30:  Speaker 3
-14:30 - 15:30:  Speaker 4
- 
-15:30 - 16:00:  **Coffee**
- 
-16:00 - 17:00:  Speaker 5
-17:10 - 18:00:  Speaker 6
- 
-18:00 - 18:15:  **Close**
-18:15 - 20:15:  **Happy hour(s)**
+10:00 - 11:00:  Speaker 1  
+11:00 - 12:00:  Speaker 2  
+
+12:00 - 13:30:  **Lunch**  
+
+13:30 - 14:30:  Speaker 3  
+14:30 - 15:30:  Speaker 4  
+
+15:30 - 16:00:  **Coffee**  
+
+16:00 - 17:00:  Speaker 5  
+17:10 - 18:00:  Speaker 6  
+
+18:00 - 18:15:  **Close**  
+18:15 - 20:15:  **Happy hour(s)**  
 
 ## Previous Events
 * [2019.2](https://londoncryptoday.github.io/2019/)
