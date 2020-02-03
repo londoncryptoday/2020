@@ -21,7 +21,7 @@ Friday, April 3rd, 2020, starting at 10:00am.
 
 ## Sounds great, I'm in!
 
-Awesome! We'll soon provide a link for registration. Please stay tuned.
+Awesome! We'll provide a link for registration soon. Please stay tuned.
 
 ## Speakers
 
@@ -53,11 +53,13 @@ Awesome! We'll soon provide a link for registration. Please stay tuned.
 18:15 - 20:15:  **Happy hour(s)**  
 
 ## Previous Events
+
 * [2019.2](https://londoncryptoday.github.io/2019/)
 * [2019.1](https://londoncryptoday19.splashthat.com/)
 * [2017](https://londoncryptoday.wordpress.com/)
 
 ## Related Events
+
 * [New York Crypto Day](https://nycryptoday.wordpress.com/)
 * [Charles River Crypto Day](https://bostoncryptoday.wordpress.com/)
 * [DC Area Crypto Day](https://dcareacryptoday.wordpress.com/)
