@@ -1,3 +1,5 @@
+![London Crypto Day Logo](img/londoncrypto-logo.jpg)
+
 ## What?
 
 London Crypto Day is a full day of talks and discussion about cryptography.
@@ -30,25 +32,7 @@ Awesome! We'll provide a link for registration soon. Please stay tuned.
 * [Ewa Syta](http://ewa.syta.us/), Trinity College
 
 ## Agenda
-
-09:15 - 09:50:  **Arrival and breakfast**  
-09:50 - 10:00:  **Welcome**  
-
-10:00 - 11:00:  Speaker 1  
-11:00 - 12:00:  Speaker 2  
-
-12:00 - 13:30:  **Lunch**  
-
-13:30 - 14:30:  Speaker 3  
-14:30 - 15:30:  Speaker 4  
-
-15:30 - 16:00:  **Coffee**  
-
-16:00 - 17:00:  Speaker 5  
-17:10 - 18:00:  Speaker 6  
-
-18:00 - 18:15:  **Close**  
-18:15 - 20:15:  **Happy hour(s)**  
+Coming soon.
 
 ## Previous Events
 
