@@ -1,5 +1,3 @@
-# London Crypto Day 2020
-
 ## What?
 
 London Crypto Day is a full day of talks and discussion about cryptography.
