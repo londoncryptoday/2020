@@ -34,11 +34,17 @@ Awesome! We'll provide a link for registration soon. Please stay tuned.
 ## Agenda
 Coming soon.
 
+## Co-located Events
+
+In case you want even more crypto, the [3rd edition of the ZKProof workshop](https://zkproof.org/events/workshop3/) 
+is taking place right after the LCD on April 4-6, 2020, at the IET London: Savoy Place. Check it out!
+
 ## Previous Events
 
 * [2019.2](https://londoncryptoday.github.io/2019/)
 * [2019.1](https://londoncryptoday19.splashthat.com/)
 * [2017](https://londoncryptoday.wordpress.com/)
+
 
 ## Related Events
 
