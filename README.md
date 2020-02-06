@@ -63,9 +63,8 @@ is taking place right after the LCD on April 4-6, 2020, at the IET London: Savoy
 
 ## Sponsors
 
-The 2020 LCD is partially sponsored by the Glass Houses project under EPSRC Grant EP/N028104/1.
+The LCD 2020 is partially sponsored by the Glass Houses project under EPSRC Grant EP/N028104/1.
 
-![Glass House](img/glass-house.png)
-
-![EPSRC](img/epsrc.png)
+<img height="120" style="padding:10px" src="img/glass-house.png">
+<img height="120" style="padding:10px" src="img/epsrc.png">
 
