@@ -34,6 +34,12 @@ Awesome! We'll provide a link for registration soon. Please stay tuned.
 ## Agenda
 Coming soon.
 
+## Organizers
+
+* [Al Cutter](https://github.com/AlCutter), Google
+* [Philipp Jovanovic](https://philipp.jovanovic.io/), University College London
+* [Sarah Meiklejohn](https://smeiklej.com/), University College London and Google Visiting Researcher
+
 ## Co-located Events
 
 In case you want even more crypto, the [3rd edition of the ZKProof workshop](https://zkproof.org/events/workshop3/) 
@@ -45,7 +51,6 @@ is taking place right after the LCD on April 4-6, 2020, at the IET London: Savoy
 * [2019.1](https://londoncryptoday19.splashthat.com/)
 * [2017](https://londoncryptoday.wordpress.com/)
 
-
 ## Related Events
 
 * [New York Crypto Day](https://nycryptoday.wordpress.com/)
@@ -55,3 +60,12 @@ is taking place right after the LCD on April 4-6, 2020, at the IET London: Savoy
 * [Paris Crypto Day](https://pariscryptoday.github.io/)
 * [Greater Tel Aviv Area Crypto Seminar](http://www.cs.tau.ac.il/cseminar/)
 * [Tokyo Crypto Day](https://tokyocryptoday.github.io/index.html)
+
+## Sponsors
+
+The 2020 LCD is partially sponsored by the Glass Houses project under EPSRC Grant EP/N028104/1.
+
+![Glass House](img/glass-house.png)
+
+![EPSRC](img/epsrc.png)
+
