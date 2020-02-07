@@ -30,6 +30,7 @@ Awesome! We'll provide a link for registration soon. Please stay tuned.
 * [Mary Maller](http://www0.cs.ucl.ac.uk/staff/M.Maller/), Ethereum Foundation
 * [Thyla van der Merwe](https://twitter.com/thylavdmerwe), Mozilla
 * [Ewa Syta](http://ewa.syta.us/), Trinity College
+* [Anastasiia Voitova](https://twitter.com/vixentael), Cossack Labs
 
 ## Agenda
 Coming soon.
