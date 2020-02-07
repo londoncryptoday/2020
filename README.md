@@ -8,8 +8,9 @@ cryptographers and cryptography enthusiasts alike to come together and network
 with like-minded people, who are either working or interested in similar areas
 to themselves.
 
-The event includes a selection of talks from both academia and industry, and
-there will be plenty of time to socialize and network with other attendees.
+The event includes a selection of talks from both academia and industry,
+participation is free, and there will be plenty of time to socialize and network
+with other attendees.
 
 ## Where?
 
@@ -21,7 +22,7 @@ Friday, April 3rd, 2020, starting at 10:00am.
 
 ## Sounds great, I'm in!
 
-Awesome! We'll provide a link for registration soon. Please stay tuned.
+Awesome! Please sign-up  [here](https://docs.google.com/forms/d/e/1FAIpQLSeLJf96tNmdgRXdm3h4VXmgphX_iPFjyv1aVgRpuLuYMSRt6A/viewform) so that we know you're coming.
 
 ## Speakers
 
