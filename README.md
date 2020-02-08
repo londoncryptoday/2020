@@ -22,7 +22,7 @@ Friday, April 3rd, 2020, starting at 10:00am.
 
 ## Sounds great, I'm in!
 
-Awesome! Please sign-up  [here](https://docs.google.com/forms/d/e/1FAIpQLSeLJf96tNmdgRXdm3h4VXmgphX_iPFjyv1aVgRpuLuYMSRt6A/viewform) so that we know you're coming.
+Awesome! Please [sign-up](https://docs.google.com/forms/d/e/1FAIpQLSeLJf96tNmdgRXdm3h4VXmgphX_iPFjyv1aVgRpuLuYMSRt6A/viewform) so that we know you're coming.
 
 ## Speakers
 
