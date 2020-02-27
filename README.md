@@ -33,8 +33,17 @@ Awesome! Please [register](https://docs.google.com/forms/d/e/1FAIpQLSeLJf96tNmdg
 * [Ewa Syta](http://ewa.syta.us/), Trinity College
 * [Anastasiia Voitova](https://twitter.com/vixentael), Cossack Labs
 
-## Agenda
-Coming soon.
+## Agenda (Tentative)
+
+* 10:00 - 10:45 Jens Groth - TBD
+* 10:45 - 11:30 Mary Maller - TBD
+* 11:30 - 12:00 Coffee
+* 12:00 - 12:45 Ewa Syta - TBD
+* 12:45 - 14:15 Lunch
+* 14:15 - 15:00 Anastasiia Voitova - 10 Lines of Encryption, 1500 Lines of Key Management
+* 15:00 - 15:45 Thyla van der Merwe - TBD
+* 15:45 - 16:15 Coffee
+* 16:15 - 17:00 Martin Albrecht - Round-optimal Verifiable Oblivious Pseudorandom Functions from Ideal Lattices
 
 ## Organizers
 
