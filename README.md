@@ -1,5 +1,9 @@
 ![London Crypto Day Logo](img/londoncrypto-logo.jpg)
 
+## Important Announcement
+
+**Due to the Covid-19 outbreak the LCD on April 3rd, 2020 will not take place. We are currently working on finding an alternative date for fall 2020 and announce it here as soon as the new date has been decided.**
+
 ## What?
 
 London Crypto Day is a full day of talks and discussion about cryptography.
@@ -18,11 +22,13 @@ Google London, [1-13 St Giles High St, London WC2H 8AG, UK](https://goo.gl/maps/
 
 ## When?
 
-Friday, April 3rd, 2020, starting at 10:00am.
+~~Friday, April 3rd, 2020, starting at 10:00am.~~
+
+Fall 2020, exact date tbd.
 
 ## Sounds great, I'm in!
 
-Awesome! Please [register](https://docs.google.com/forms/d/e/1FAIpQLSeLJf96tNmdgRXdm3h4VXmgphX_iPFjyv1aVgRpuLuYMSRt6A/viewform) so that we know you're coming.
+Registration will re-open once the new date has been decided.
 
 ## Speakers
 
@@ -35,15 +41,15 @@ Awesome! Please [register](https://docs.google.com/forms/d/e/1FAIpQLSeLJf96tNmdg
 
 ## Agenda (Tentative)
 
-* 10:00 - 10:45 Jens Groth - TBD
-* 10:45 - 11:30 Mary Maller - TBD
+* 10:00 - 10:45 Talk 1
+* 10:45 - 11:30 Talk 2 
 * 11:30 - 12:00 Coffee
-* 12:00 - 12:45 Ewa Syta - TBD
+* 12:00 - 12:45 Talk 3
 * 12:45 - 14:15 Lunch
-* 14:15 - 15:00 Anastasiia Voitova - 10 Lines of Encryption, 1500 Lines of Key Management
-* 15:00 - 15:45 Thyla van der Merwe - TBD
+* 14:15 - 15:00 Talk 4
+* 15:00 - 15:45 Talk 5
 * 15:45 - 16:15 Coffee
-* 16:15 - 17:00 Martin Albrecht - Round-optimal Verifiable Oblivious Pseudorandom Functions from Ideal Lattices
+* 16:15 - 17:00 Talk 6
 
 ## Organizers
 
