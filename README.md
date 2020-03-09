@@ -1,8 +1,8 @@
 ![London Crypto Day Logo](img/londoncrypto-logo.jpg)
 
-## Important Announcement
+## Announcement: London Crypto Day Postponed
 
-**Due to the Covid-19 outbreak the LCD on April 3rd, 2020 will not take place. We are currently working on finding an alternative date for fall 2020 and announce it here as soon as the new date has been decided.**
+**The London Crypto Day will not take place on April 3rd, 2020 due to the Covid-19 outbreak. We are currently working on finding an alternative date for fall 2020 and announce it here as soon as it has been decided.**
 
 ## What?
 
@@ -59,8 +59,8 @@ Registration will re-open once the new date has been decided.
 
 ## Co-located Events
 
-In case you want even more crypto, the [3rd edition of the ZKProof workshop](https://zkproof.org/events/workshop3/) 
-is taking place right after the LCD on April 4-6, 2020, at the IET London: Savoy Place. Check it out!
+~~In case you want even more crypto, the [3rd edition of the ZKProof workshop](https://zkproof.org/events/workshop3/) 
+is taking place right after the LCD on April 4-6, 2020, at the IET London: Savoy Place. Check it out!~~
 
 ## Previous Events
 
