@@ -1,8 +1,10 @@
 ![London Crypto Day Logo](img/londoncrypto-logo.jpg)
 
-## Announcement: London Crypto Day Postponed
+## Announcement: London Crypto Day 2020 ~~Postponed~~ Canceled
 
-**The London Crypto Day will not take place on April 3rd, 2020 due to the Covid-19 outbreak. We are currently working on finding an alternative date for fall 2020 and announce it here as soon as it has been decided.**
+* 09.03.20: The London Crypto Day will not take place on April 3rd, 2020 due to the Covid-19 outbreak. We are currently working on finding an alternative date for fall 2020 and announce it here as soon as it has been decided.
+* 03.06.20: Due to the continued unpredictable nature of the current situation, we are sad to announce that we decided to cancel the London Crypto Day 2020. This is of course not the end of the LCD conference series and we will try to be back next year. Stay tuned!
+
 
 ## What?
 
